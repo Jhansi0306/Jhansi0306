@@ -1,4 +1,6 @@
 ## Hi there 👋
+Data Science student pursuing higher studies, passionate about turning data into insights. Skilled in Python, analysis, and communication, I enjoy sharing knowledge and learning continuously. Reach me at: mannejhansi48@gmail.com
+Great communication is like code—clear syntax avoids bugs in understanding.
 
 <!--
 **Jhansi0306/Jhansi0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
