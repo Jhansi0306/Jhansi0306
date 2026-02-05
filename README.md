@@ -1,4 +1,4 @@
-Hey i MANNE JAHNSI Welcome to my GitHub 
+Hey i MANNE JAHNSI Welcome to my GitHub.
 Data Science student pursuing higher studies, passionate about turning data into insights. Skilled in Python, analysis, and communication, I enjoy sharing knowledge and learning continuously. Reach me at: mannejhansi48@gmail.com
 Great communication is like code—clear syntax avoids bugs in understanding.
 
